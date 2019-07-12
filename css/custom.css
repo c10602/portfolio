@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.fa-stack.fa-4x>img{height:100%;}
+.col-md-4.col-sm-6.portfolio-item img{width:400px; height:200px;}
+.img-fluid{width:100%; height:100%;}
+.text{font-size:20px; font-weight:bolder;}
+header.masthead{background-image:url(../img/back.jpg);}
